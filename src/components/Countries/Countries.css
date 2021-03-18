@@ -1,0 +1,12 @@
+.card-image{
+    height:200px;
+    width:100%;
+}
+#explore-button{
+    padding:12px 40px;
+    border-radius: 55px;
+    border:none;
+    outline:none;
+    color: #fff;
+    background-color: #F50057;
+}

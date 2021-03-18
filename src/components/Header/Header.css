@@ -1,0 +1,15 @@
+#main-button{
+    padding:12px 40px;
+    border-radius: 55px;
+    border:none;
+    outline:none;
+    color: #fff;
+    background-color: #F50057;
+}
+.title{
+    color:#F50057;
+}
+.link{
+    color:#000;
+    text-decoration: none;
+}
